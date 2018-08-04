@@ -1,0 +1,23 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: rgba(231, 178, 31, 0.795);
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body {
+  background-image: url("https://banner2.kisspng.com/20180130/ijq/kisspng-hamburger-french-fries-vector-hand-painted-burger-fries-background-5a70943f32f699.2704931415173274232088.jpg");
+}
